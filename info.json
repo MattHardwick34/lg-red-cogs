@@ -1,0 +1,7 @@
+{
+    "author" : ["hew"],
+    "name" : "lg-red-cogs",
+    "short" : "LG Lenny cogs.",
+    "description" : "London Gaymers specific cogs",
+    "tags" : ["utility"]
+}
